@@ -1,0 +1,44 @@
+.couponRowContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 2px;
+}
+
+.couponContainer{
+    border: 2px solid rgb(62, 127, 151);
+    width: 550px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.couponDiscount{
+    color: #f56523;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.couponTitle{
+    margin: 0;
+}
+
+.couponMode{
+    font-size: small;
+    color: gray;
+}
+
+.couponDescription{
+    font-size: small;
+    color: rgb(97, 149, 228);
+    font-weight: 400;
+}
+
+.couponExpiry{
+    font-size: small;
+    color: rgb(97, 149, 228);
+    display: block;
+    margin: 3px;
+}

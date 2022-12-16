@@ -1,0 +1,13 @@
+.containerTable{
+    width: 700px;
+    height: auto;
+    /* border: 1px solid grey; */
+    margin: auto;
+}
+
+.addButton{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+}
